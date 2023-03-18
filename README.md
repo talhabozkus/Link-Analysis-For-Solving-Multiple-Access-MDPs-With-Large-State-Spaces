@@ -1,1 +1,1 @@
-# Link-Analysis-For-Solving-Multiple-Access-MDPs-With-Large-State-Spaces
+Please find the supplementary appendix file for the paper "Link Analysis for solving Multiple-Access MDPs with Large State Spaces", by Talha Bozkus and Urbashi Mitra, accepted to IEEE Transactions in Signal Processing.
